@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/groupmaker-23/static/css/main.073c9b0a.css",
-    "main.js": "/groupmaker-23/static/js/main.1a4bbf4a.js",
-    "static/js/787.317fe57e.chunk.js": "/groupmaker-23/static/js/787.317fe57e.chunk.js",
-    "index.html": "/groupmaker-23/index.html",
-    "main.073c9b0a.css.map": "/groupmaker-23/static/css/main.073c9b0a.css.map",
-    "main.1a4bbf4a.js.map": "/groupmaker-23/static/js/main.1a4bbf4a.js.map",
-    "787.317fe57e.chunk.js.map": "/groupmaker-23/static/js/787.317fe57e.chunk.js.map"
+    "main.css": "/group-maker/static/css/main.073c9b0a.css",
+    "main.js": "/group-maker/static/js/main.c2e3e2bc.js",
+    "static/js/787.317fe57e.chunk.js": "/group-maker/static/js/787.317fe57e.chunk.js",
+    "index.html": "/group-maker/index.html",
+    "main.073c9b0a.css.map": "/group-maker/static/css/main.073c9b0a.css.map",
+    "main.c2e3e2bc.js.map": "/group-maker/static/js/main.c2e3e2bc.js.map",
+    "787.317fe57e.chunk.js.map": "/group-maker/static/js/787.317fe57e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.1a4bbf4a.js"
+    "static/js/main.c2e3e2bc.js"
   ]
 }
